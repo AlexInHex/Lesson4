@@ -43,8 +43,8 @@ namespace Lesson4
                     }
                 }                
             }
-            Console.WriteLine("кол-во цифр в слове" + maxCountNum);
-            Console.WriteLine("слово с макс цифр" + wordWithNum);
+            Console.WriteLine("кол-во цифр в слове " + maxCountNum);
+            Console.WriteLine("слово с макс цифр " + wordWithNum);
 
             
         }
